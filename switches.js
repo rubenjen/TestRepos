@@ -8,6 +8,9 @@ switch(grade){
 	case "C":
 		console.log("Pass");
 		break;
+	case "D":
+		console.log("You have failed");
+		break;
 	default:{
 		console.log("What's That!");
 	}
